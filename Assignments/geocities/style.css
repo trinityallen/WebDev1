@@ -42,14 +42,13 @@ h2{
     width: 500px;
 }
 .cat{
-    position: absolute;
-    left: 900px;
-    bottom: 500px;
-    width: 10%;
+    position: fixed;
+    left: 500px;
+    width: 10px;
 }
+
 .rainbow{
     position: absolute;
     left: 300px;
     bottom: 545px;
-    
 }
