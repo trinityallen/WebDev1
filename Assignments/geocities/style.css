@@ -1,0 +1,55 @@
+*{margin:0; padding: 0; box-sizing: border-box}
+
+body {
+    background-image: url(gifs/blackdrop.gif)
+}
+
+img{
+    width: 20%;
+}
+
+h1{
+    background: white;
+    padding: 1em;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h2{
+    text-align: center;
+    background:#aef78d;
+    padding: .5em;
+    margin: 0;
+    font-family: 'Times New Roman', Times, serif;
+}
+.blue{ 
+    position: absolute;
+    left: 1060px;
+    bottom: 10px;
+}
+.leaf{ 
+    position: fixed;
+    left: 500px;
+    bottom: 30px;
+}
+.black { 
+    position: absolute;
+    left: 270 px;
+    bottom: 10px;
+}
+.run{
+    position: absolute;
+    left: 500px;
+    width: 500px;
+}
+.cat{
+    position: absolute;
+    left: 900px;
+    bottom: 500px;
+    width: 10%;
+}
+.rainbow{
+    position: absolute;
+    left: 300px;
+    bottom: 545px;
+    
+}
