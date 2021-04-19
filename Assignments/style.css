@@ -1,7 +1,17 @@
+body{
+    background-color: rgb(247, 108, 165);
+}
 h1 {
     font-family: 'Noto Sans JP', sans-serif;
+    color: rgb(255, 255, 255);
+    text-align: center;
 }
 
 h2 {
     font-family: 'Train One', cursive;
+    color: white;
+    text-align: center;
+}
+ul{
+    text-align: center;
 }
