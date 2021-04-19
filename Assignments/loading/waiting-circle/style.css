@@ -1,0 +1,37 @@
+body{
+    background-color: pink;
+}
+#loading-bar{
+    height: 26px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    width: 200px;
+    background: #30c6f380;
+    border-radius: 10px;
+    margin: -20px 0 0 -100px;
+  }
+  #span{
+    height: 20px;
+    width: calc(100% - 10px);
+    border-radius: 18px;
+    background:sienna;
+    position: absolute;
+    margin: 3px;
+    animation: load 15s ease infinite;
+  }
+   #load{
+    font-family: cursive;
+    font-weight: bold;
+    text-align: center;
+    margin-top: -70px;
+  }
+ 
+  @keyframes load{
+    0%{
+      width: 17%;
+    }
+    10%{
+      width:19%;
+    }
+  }
